@@ -1,4 +1,9 @@
-This directory contains some footprints for pcb
+This repository contains some footprints for pcb
+http://pcb.gpleda.org/index.html
+
+I do not know the origin of the 2terminal and 3terminal footprints, they are
+around since a few years. If anybody recognizes them, please give me a hint
+that I can give credits to the original creator.
 
 The footprint SMA_LAY.fp is taken from
 http://www.gedasymbols.org/user/kai_martin_knaak/footprints/connector/SMA_LAY.fp
