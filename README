@@ -8,3 +8,8 @@ that I can give credits to the original creator.
 The footprint SMA_LAY.fp is taken from
 http://www.gedasymbols.org/user/kai_martin_knaak/footprints/connector/SMA_LAY.fp
 
+RFM12-SMD.fp: Footprint for RFM12 module (Hope RF12)
+
+cr2032-p1.fp: Footprint for CR2032 battery holder (Pollin 270 624,
+http://www.pollin.de/shop/dt/NTczOTI3OTk-/Stromversorgung/Batterien/Zubehoer/Batteriehalter_CR2032.html)
+
