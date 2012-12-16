@@ -12,6 +12,11 @@ RFM12-SMD.fp: Footprint for RFM12 module (Hope RF12)
 
 RFM70-SMD.fp: Footprint for RFM70 module (Hope RF)
 
+
+HU2032-LF.fp: Footprint for CR2032 battery holder, Renata HU2032-LF type.
+http://www.farnell.com/datasheets/59110.pdf
+http://de.farnell.com/jsp/search/productdetail.jsp?SKU=1319749
+
 cr2032-p1.fp: Footprint for CR2032 battery holder (Pollin 270 624,
 http://www.pollin.de/shop/dt/NTczOTI3OTk-/Stromversorgung/Batterien/Zubehoer/Batteriehalter_CR2032.html)
 
